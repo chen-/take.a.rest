@@ -1,1 +1,2 @@
 mvn archetype:create -DgroupId=take.a.rest -DartifactId=MOOM
+mvn dependency:sources
